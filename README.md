@@ -10,9 +10,12 @@ Master of Information Technology & Management - Specialization in Data Analytics
 - Illinois Institute of Technology - GPA: 3.89/4.0  
 
 Bachelor of Information Technology & Management - Specialization in Web Design Application and Software Development: May 2022
-- Illinois Institute of Technology                                                                                                                                                GPA: 3.89/4.0  
+- Illinois Institute of Technology - GPA: 3.89/4.0  
 
 ### Experience
+KC7 Cyber Learning Modules: Feb 2024 - Present
+- Completed (number) modules covering various aspects of cybersecurity, including (mention specific modules or topics covered)
+
 Associate Product Manager at Atlassian Inc.: Aug 2022 - Mar 2023
 - Defined, and established a cross-functional Security Ambassadors program, aiming to uplift the security posture across all teams in IT.
 - Regularly met with business stakeholders to report on progress and KPIs related to high-priority work programs and projects. 
@@ -25,6 +28,11 @@ Global Technology Intern at McDonald’s Corporate: June 2021 - Aug 2021
 - Coded a Big Mac counter metric using JMX and Prometheus and visualized it using Grafana to demonstrate that real-time data is being pulled in.
 
 ### Projects
+- Conduct a Sedurity Audit
+- Responding to Security Incidents using the NIST CSF
+- Manage file permissions using Linux commands
+- Applying filters to SQL queries
+- Analyze a vulnerable system for a small business
 
 ### Skills
 - Cybersecurity Principles and Practices
