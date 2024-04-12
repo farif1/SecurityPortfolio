@@ -1,7 +1,5 @@
 # Security Analyst
 
-I am a motivated and detail-oriented individual with a Google Cybersecurity Certificate and a passion for cybersecurity seeking an entry-level security analyst position. Possessing a strong foundation in cybersecurity principles, along with hands-on experience through practical projects and gaming modules, I am eager to contribute to safeguarding digital assets and mitigating security risks.
-
 ### Education
 Google Career Certificate - Cybersecurity: March 2024
 - Learned fundamental concepts of cybersecurity, including network security, encryption, threat detection, and incident response through hands-on labs and real-world scenarios.
