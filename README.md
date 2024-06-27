@@ -12,7 +12,7 @@ Bachelor of Information Technology & Management - Specialization in Web Design A
 
 ### Experience
 KC7 Cyber Learning Modules: Feb 2024 - Present
-- Completed (number) modules covering various aspects of cybersecurity, including (mention specific modules or topics covered)
+- Completed 3 gaming modules covering various aspects of cybersecurity, including pivoting, threat clustering and attention to detail
 
 Associate Product Manager at Atlassian Inc.: Aug 2022 - Mar 2023
 - Defined, and established a cross-functional Security Ambassadors program, aiming to uplift the security posture across all teams in IT.
