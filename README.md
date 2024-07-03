@@ -16,7 +16,8 @@ Global Technology Intern at McDonald’s Corporate: June 2021 - Aug 2021
 - Coded a Big Mac counter metric using JMX and Prometheus and visualized it using Grafana to demonstrate that real-time data is being pulled in.
 
 ### Projects
-- Conduct a Security Audit
+- [Conduct a Security Audit] (https://drive.google.com/drive/folders/1vxL9wcZfEd6pM3Zk1m7OQzWkeri9bH0v)
+  - Created a report by listing current assets and their risk assessment  
 - Responding to Security Incidents using the NIST CSF
 - Manage file permissions using Linux commands
 - Applying filters to SQL queries
