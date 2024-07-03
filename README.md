@@ -1,9 +1,6 @@
 # Security Analyst
 
 ### Experience
-KC7 Cyber Learning Modules: Feb 2024 - Present
-- Completed 3 gaming modules covering various aspects of cybersecurity, including pivoting, threat clustering and attention to detail
-
 Associate Product Manager at Atlassian Inc.: Aug 2022 - Mar 2023
 - Defined, and established a cross-functional Security Ambassadors program, aiming to uplift the security posture across all teams in IT.
 - Regularly met with business stakeholders to report on progress and KPIs related to high-priority work programs and projects. 
@@ -16,6 +13,8 @@ Global Technology Intern at McDonald’s Corporate: June 2021 - Aug 2021
 - Coded a Big Mac counter metric using JMX and Prometheus and visualized it using Grafana to demonstrate that real-time data is being pulled in.
 
 ### Projects
+- KC7 Cyber Learning Modules
+  - Completed three gaming modules covering various aspects of cybersecurity, including pivoting, threat clustering and attention to detail
 - Conduct a Security Audit 
   - Created a risk assessment report by listing current assets and their risks for a small company 
 - Respond to Security Incidents using the NIST CSF
