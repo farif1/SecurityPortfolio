@@ -41,10 +41,10 @@ Bachelor of Information Technology & Management - Specialization in Web Design A
 - Illinois Institute of Technology - GPA: 3.89/4.0  
 
 ### Skills
-- Cybersecurity Principles and Practices
+- Security Frameworks and Controls
 - Networking protocols & System Administration
 - Security Auditing
-- Incident & Risk Assessment Reporting
+- Incident Response & Risk Assessment
 - Communication and teamwork abilities
 - Problem-solving Skills
 - Analytical and Research Skills
@@ -52,11 +52,12 @@ Bachelor of Information Technology & Management - Specialization in Web Design A
 
 ### Tools and Techniques
 - Wireshark, tcpdump
-- Linux, MacOS 
-- SQL, R
-- API tools: Postman, Restfox
+- Linux Command Line, MacOS 
+- SQL, R, Python, Java, C++
+- SIEM Tool - Splunk
 - Fluent in Atlassian Products
-- Software Programming: Jakarta EE (Java) and C++ 
+- API tools: Postman, Restfox
 - Web Development: GIT, HTML, CSS, JavaScript, React, Vue
 - Data Visualization: Tableau, Grafana, Power BI
 - Microsoft Office
+
